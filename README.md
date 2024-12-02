@@ -1,3 +1,6 @@
+![Clone IU Google](https://github.com/user-attachments/assets/b525c0ce-c6e8-4e99-beb1-e1b291a16f54)
+
+
 PROJETO CLONE DO GOOGLE.
 
 O objetivo do exercício foi fazer a página de busca do Google. É uma estrutura fácil, de poucas linhas e que utiliza flexbox em todo o corp. A estrutura do projeto foi dividida em 4 partes. (1)header; (2)section; (3)aside; (4)footer.
